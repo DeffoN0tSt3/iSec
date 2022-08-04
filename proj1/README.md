@@ -70,6 +70,4 @@
 
         a mod b = (a % b + b) % b
 
-    ![TEA Output](img/acdh-out.PNG?raw=true "Title")
-    
-    [View Source Code](src)
+  
