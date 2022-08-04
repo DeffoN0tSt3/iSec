@@ -1,3 +1,3 @@
-# iSec things
+# InfoSec things
 
-## Started Aug 2022
+### Started Aug 2022
